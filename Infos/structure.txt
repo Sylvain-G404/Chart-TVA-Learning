@@ -3,25 +3,23 @@ Le numéro de série du volume est 3894-ABBE
 C:.\TVA
 |   .gitignore
 |   generate_structure.bat
+|   humans.txt
 |   index.html
+|   README.md
 |   
 +---Assets
-|   +---Favicon
-|   |       Favicon.K.sf.png
-|   |       
-|   +---Icons
-|   \---Image
-+---Data
-|       data.json
-|       
+|   \---Favicon
+|           Favicon.K.sf.png
+|           
 +---Infos
+|       structure.txt
 |       structure_temp.txt
 |       
 +---JavaScript
 |       main.js
 |       
-+---ScreeShrot_Site
-|       Screenshot 2026-10-18 at 06-27-14 Comparatif TVA Individuel vs National.png
++---Screenshot_Site
+|       Screenshot 2026-10-18 at 11-47-16 Comparatif TVA Individuel vs National.png
 |       
 \---Style
         style.css

@@ -5,6 +5,10 @@ L'objectif principal est de s'entraîner à concevoir un tableau de bord interac
 
 Le projet sert de cas pratique pour maîtriser la superposition de courbes, la gestion des échelles complexes (valeurs unitaires vs données de masse) et l'intégration de plugins de rendu.
 
+<p align="center">
+  <img src="Screenshot_Site/Screenshot 2026-10-18 at 11-47-16 Comparatif TVA Individuel vs National.png" alt="Aperçu du laboratoire de graphiques" width="100%">
+</p>
+
 ---
 
 ## 🛠️ Concepts Techniques Étudiés
