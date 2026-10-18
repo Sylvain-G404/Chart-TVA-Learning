@@ -1,0 +1,16 @@
+/* DEVELOPER  */
+Freelance: Ki->ir->rA
+GitHub: https://github.com/Sylvain-G404
+Portfolio: https://sylvain-g404.github.io/Mon-Portfolio-Temps/
+
+/* SITE */
+Standards: HTML5, CSS3, JavaScript, Chart.js (v4)
+Software: VS Code
+
+/* PROJECT ALIBI */
+Name: Labo-TVA-Charts / Tax-Visualization-App
+Type: Élaboration d'un tableau de bord de statistiques et gestion macroéconomique.
+Learning Focus: Gestion des échelles de données, superposition asymétrique de courbes,
+rendu de pourcentages dynamiques dans un graphique en anneau (Doughnut) et injection textuelle sur Canvas natif.
+
+Ghost mais pas tant que ça, la mèche est allumée... 😉

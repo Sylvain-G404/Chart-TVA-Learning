@@ -1,0 +1,28 @@
+Structure du dossier pour le volume Windows
+Le numéro de série du volume est 3894-ABBE
+C:.\TVA
+|   .gitignore
+|   generate_structure.bat
+|   index.html
+|   
++---Assets
+|   +---Favicon
+|   |       Favicon.K.sf.png
+|   |       
+|   +---Icons
+|   \---Image
++---Data
+|       data.json
+|       
++---Infos
+|       structure_temp.txt
+|       
++---JavaScript
+|       main.js
+|       
++---ScreeShrot_Site
+|       Screenshot 2026-10-18 at 06-27-14 Comparatif TVA Individuel vs National.png
+|       
+\---Style
+        style.css
+        
